@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rajon717.github.io/ShadeChat-site/sitemap.xml
